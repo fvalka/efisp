@@ -16,6 +16,11 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "stream": [
+        "./node_modules/readable-stream"
+      ]
+    }
   }
 }

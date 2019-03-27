@@ -30,7 +30,7 @@
               "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "src/styles.sass"
             ],
-            "scripts": []
+            "scripts": [ "./node_modules/papaparse/papaparse.js" ]
           },
           "configurations": {
             "production": {
