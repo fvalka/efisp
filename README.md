@@ -26,7 +26,7 @@ Altitudes are segmented using the rolling mean of the barometric climb rate.
 A prototype has been created using a python leaflet.js API.
 
 <p align="center" style="margin-bottom: 10em;">
-    <img src="doc/images/map_prototype.jpg" alt="Deployment Pipeline" width="650"/>
+    <img src="doc/images/map_prototype.jpg" alt="Map Prototype" width="650"/>
 </p>
 
 ### Segmentation Algorithm
@@ -34,7 +34,7 @@ Segmentation in the prototype is performed by applying a rolling mean with a 60 
 vertical speed. 
 
 <p align="center" style="margin-bottom: 10em;">
-    <img src="doc/images/map_prototype.jpg" alt="Deployment Pipeline" width="650"/>
+    <img src="doc/images/segmentation_prototype.jpg" alt="Segmentation Prototype" width="650"/>
 </p>
 
 For each time step the current state is saved where `cruise` is the initial state. 
