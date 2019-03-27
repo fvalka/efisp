@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 10em;">
-  <img src="doc/images/logo_300dpi.png" alt="EFISP"/>
+  <img src="doc/images/logo_300dpi.png" alt="EFISP" width="300"/>
 </p>
 
 The goal of this project is the development of an angular application which allows pilots to analyze 
